@@ -1,7 +1,14 @@
 # Project exclude paths
 build/
 .gradle/
-gradle/wrapper/
 .idea/
 *.iml
 *.log
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+out/
+lib/
+logs/
